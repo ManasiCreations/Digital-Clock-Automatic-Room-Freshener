@@ -63,6 +63,17 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 ---
 
+## 🧠 How It Works
+
+1. The TM1637 4-digit display continuously shows the current time in **12-hour format**.
+2. Two push buttons allow the user to manually adjust the **hour** and **minute** values.
+3. The Arduino uses the `millis()` function to update the clock every minute without blocking other tasks.
+4. Every **5 seconds** (configured for demonstration purposes), the servo motor rotates to press the room freshener nozzle.
+5. After spraying, the servo automatically returns to its initial position and waits for the next interval.
+6. In a real-world implementation, the spray interval can be increased to **30 minutes, 1 hour, or a custom duration**.
+
+---
+
 ## ⚡ Circuit Diagram
 
 *(Circuit diagram will be added here.)*
