@@ -91,4 +91,18 @@ Working on this project helped me strengthen my understanding of:
 - Implementing button debouncing for reliable user input
 - Integrating hardware and software into a complete embedded system
 - Debugging and testing embedded applications
+
+---
+
+## ⚠️ Challenges Faced
+
+During the development of this project, I encountered several challenges:
+
+- Ensuring accurate time updates while performing other tasks simultaneously.
+- Preventing multiple button presses using software debouncing.
+- Controlling the servo motor smoothly without affecting the clock display.
+- Organizing the code to make it easy to understand and maintain.
+- Testing the spray mechanism repeatedly to ensure reliable operation.
+
+These challenges helped me improve my debugging skills and gain practical experience in embedded system development.  
 ---
