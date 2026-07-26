@@ -1,6 +1,14 @@
 
 # 🕒 Digital Clock & Automatic Room Freshener
+![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+![Language](https://img.shields.io/badge/Language-Embedded%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Display](https://img.shields.io/badge/Display-TM1637-orange?style=for-the-badge)
+
+![Actuator](https://img.shields.io/badge/Actuator-Servo%20Motor-red?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 An Arduino-based embedded systems project that combines a **12-hour digital clock** with an **automatic room freshener**. The system displays the current time on a TM1637 4-digit display while controlling a servo motor to spray room freshener automatically at regular intervals.
 
 ---
