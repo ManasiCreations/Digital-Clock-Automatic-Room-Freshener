@@ -67,6 +67,9 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 <p align="center">
   <img src="media/image1.png" width="45%" alt="Project Image 1"/>
+
+
+  
 ---
 
 ## 🧠 How It Works
