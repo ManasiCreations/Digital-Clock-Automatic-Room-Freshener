@@ -31,7 +31,9 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 ## 📹 Project Demonstration
 
-*(Video will be added here.)*
+[![Project Demo](media/thumbnail.png)](media/demo.mp4)
+
+> 🎥 Click the image above to watch the project demonstration.
 
 ---
 
