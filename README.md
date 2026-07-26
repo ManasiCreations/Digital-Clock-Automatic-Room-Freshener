@@ -130,3 +130,9 @@ The following enhancements can be implemented in future versions of this project
 
 These improvements would make the project more practical for real-world use while enhancing user experience and functionality.
 ---
+## 🎯 Key Takeaways
+
+This project provided valuable hands-on experience in embedded systems by combining hardware interfacing, real-time timing, and automation. It strengthened my understanding of integrating multiple components into a functional system while improving my debugging, testing, and problem-solving skills.
+
+The project also highlighted the importance of writing structured, maintainable code and designing embedded applications that can be expanded with future features.
+---
