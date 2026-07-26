@@ -115,3 +115,18 @@ During the development of this project, I encountered several challenges:
 
 These challenges helped me improve my debugging skills and gain practical experience in embedded system development.  
 ---
+
+## 🚀 Future Improvements
+
+The following enhancements can be implemented in future versions of this project:
+
+- ⏰ Integrate a DS3231 RTC module for accurate timekeeping.
+- 🌐 Upgrade to ESP32 for Wi-Fi connectivity and remote monitoring.
+- 📱 Develop a mobile application to configure spray intervals.
+- ⚙️ Allow users to set custom spray timings using the push buttons.
+- 🔋 Add a rechargeable battery backup for uninterrupted operation.
+- 📺 Replace the TM1637 display with an OLED display to show additional information such as date and spray status.
+- 🌸 Support multiple spray modes (Normal, Eco, and Intensive).
+
+These improvements would make the project more practical for real-world use while enhancing user experience and functionality.
+---
