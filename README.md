@@ -9,6 +9,8 @@
 ![Actuator](https://img.shields.io/badge/Actuator-Servo%20Motor-red?style=for-the-badge)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+
 An Arduino-based embedded systems project that combines a **12-hour digital clock** with an **automatic room freshener**. The system displays the current time on a TM1637 4-digit display while controlling a servo motor to spray room freshener automatically at regular intervals.
 
 ---
