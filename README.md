@@ -63,6 +63,12 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 ---
 
+## 📸 Project Gallery
+
+<p align="center">
+  <img src="media/image1.png" width="45%" alt="Project Image 1"/>
+---
+
 ## 🧠 How It Works
 
 1. The TM1637 4-digit display continuously shows the current time in **12-hour format**.
