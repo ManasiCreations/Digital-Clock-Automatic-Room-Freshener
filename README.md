@@ -83,12 +83,6 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 ---
 
-## ⚡ Circuit Diagram
-
-*(Circuit diagram will be added here.)*
-
----
-
 ## 📚 What I Learned
 
 Working on this project helped me strengthen my understanding of:
