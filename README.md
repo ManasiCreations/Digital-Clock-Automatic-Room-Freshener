@@ -39,6 +39,20 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 ---
 
+## 🔌 Pin Connections
+
+| Arduino Uno | Component |
+|--------------|-----------|
+| D2 | TM1637 CLK |
+| D3 | TM1637 DIO |
+| D5 | Servo Signal |
+| D6 | Hour Button |
+| D7 | Minute Button |
+| 5V | TM1637 VCC & Servo VCC |
+| GND | Common Ground |
+
+---
+
 ## 📹 Project Demonstration
 
 <p align="center">
