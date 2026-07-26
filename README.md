@@ -80,6 +80,15 @@ An Arduino-based embedded systems project that combines a **12-hour digital cloc
 
 ---
 
-## 🧠 Working Principle
+## 📚 What I Learned
 
-*(Will be added in the next step.)*
+Working on this project helped me strengthen my understanding of:
+
+- Programming in Embedded C++ using Arduino IDE
+- Interfacing a TM1637 4-digit display
+- Controlling a servo motor for mechanical automation
+- Using the `millis()` function for non-blocking timing
+- Implementing button debouncing for reliable user input
+- Integrating hardware and software into a complete embedded system
+- Debugging and testing embedded applications
+---
